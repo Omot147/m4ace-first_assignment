@@ -1,0 +1,7 @@
+> Goals in cybersecurity
+
+-Master the CIA Triad: Ensure all security measures prioritize ConfidentialityIntegrity, and Availability of data.
+-Obtain Core Certifications: Earn entry-to-mid-level certifications such as CompTIA Security+, GSEC, or (ISC)² SSCP to validate baseline knowledge.
+-Develop Proficiency in Scripting: Learn Python or Bash to automate repetitive security tasks.
+-Master Security Tools: Gain hands-on experience with EDR (Endpoint Detection and Response) tools, SIEM systems, and vulnerability scanners.
+-Build a Home Lab: Set up a virtual lab to practice ethical hacking, network monitoring, and malware analysis in a safe environment.
